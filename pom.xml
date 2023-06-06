@@ -8,7 +8,7 @@
         <version>3.1.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>org.people</groupId>
+    <groupId>org.people.platform</groupId>
     <artifactId>people-platform</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>people-platform</name>
